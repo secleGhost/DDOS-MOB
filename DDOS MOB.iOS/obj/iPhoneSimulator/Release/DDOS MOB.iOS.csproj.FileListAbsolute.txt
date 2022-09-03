@@ -1,0 +1,14 @@
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\actool\_PartialAppManifest.items
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\actool\_ProcessedImageAssetsPath.items
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\coremlc\_PartialAppManifest.items
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\_ProcessedBundleResourcesPath.items
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\_ProcessedContentPath.items
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\optimized\
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\DDOS MOB.iOS.csproj.AssemblyReference.cache
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\DDOS MOB.iOS.csproj.CoreCompileInputs.cache
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB.iOS\obj\iPhoneSimulator\Release\DDOS MOB.iOS.exe
