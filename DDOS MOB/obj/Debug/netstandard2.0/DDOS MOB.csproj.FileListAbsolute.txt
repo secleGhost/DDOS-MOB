@@ -1,0 +1,15 @@
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\bin\Debug\netstandard2.0\DDOS MOB.deps.json
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\obj\Debug\netstandard2.0\DDOS MOB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\obj\Debug\netstandard2.0\DDOS MOB.AssemblyInfoInputs.cache
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\obj\Debug\netstandard2.0\DDOS MOB.AssemblyInfo.cs
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\obj\Debug\netstandard2.0\DDOS MOB.csproj.CoreCompileInputs.cache
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\obj\Debug\netstandard2.0\DDOS MOB.dll
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\obj\Debug\netstandard2.0\ref\DDOS MOB.dll
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\obj\Debug\netstandard2.0\DDOS MOB.pdb
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\bin\Debug\netstandard2.0\DDOS MOB.dll
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\bin\Debug\netstandard2.0\ref\DDOS MOB.dll
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\bin\Debug\netstandard2.0\DDOS MOB.pdb
+C:\Users\uesr\source\repos\DDOS MOB\DDOS MOB\obj\Debug\netstandard2.0\DDOS MOB.csproj.AssemblyReference.cache
